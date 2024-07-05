@@ -1,2 +1,2 @@
 console.log("hola mundo desde js")
-hola ruben 
+console.log("hola ruben")
